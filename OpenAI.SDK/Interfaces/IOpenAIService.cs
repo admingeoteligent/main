@@ -56,4 +56,6 @@ public interface IOpenAIService
     /// </summary>
     /// <param name="modelId"></param>
     void SetDefaultModelId(string modelId);
+
+    
 }
